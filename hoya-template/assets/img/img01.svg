@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1265" height="1081" viewBox="0 0 1265 1081">
+  <g id="Group_147" data-name="Group 147" transform="translate(-170 -1282)">
+    <rect id="Rectangle_380" data-name="Rectangle 380" width="501" height="82" transform="translate(408 1466)" fill="#f0f5fc"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="501" height="75" transform="translate(408 1558)" fill="#f0f5fc"/>
+    <rect id="Rectangle_381" data-name="Rectangle 381" width="501" height="75" transform="translate(408 1643)" fill="#f0f5fc"/>
+    <rect id="Rectangle_383" data-name="Rectangle 383" width="501" height="75" transform="translate(408 1728)" fill="#f0f5fc"/>
+    <rect id="Rectangle_385" data-name="Rectangle 385" width="501" height="75" transform="translate(408 1948)" fill="#f0f5fc"/>
+    <rect id="Rectangle_390" data-name="Rectangle 390" width="501" height="75" transform="translate(408 2118)" fill="#f0f5fc"/>
+    <rect id="Rectangle_393" data-name="Rectangle 393" width="501" height="75" transform="translate(408 2288)" fill="#f0f5fc"/>
+    <rect id="Rectangle_388" data-name="Rectangle 388" width="501" height="75" transform="translate(408 2033)" fill="#f0f5fc"/>
+    <rect id="Rectangle_389" data-name="Rectangle 389" width="501" height="75" transform="translate(408 2203)" fill="#f0f5fc"/>
+    <rect id="Rectangle_386" data-name="Rectangle 386" width="501" height="75" transform="translate(929 1948)" fill="#f0f5fc"/>
+    <rect id="Rectangle_391" data-name="Rectangle 391" width="501" height="75" transform="translate(929 2118)" fill="#f0f5fc"/>
+    <rect id="Rectangle_394" data-name="Rectangle 394" width="501" height="75" transform="translate(929 2288)" fill="#f0f5fc"/>
+    <rect id="Rectangle_387" data-name="Rectangle 387" width="501" height="75" transform="translate(929 2033)" fill="#f0f5fc"/>
+    <rect id="Rectangle_392" data-name="Rectangle 392" width="501" height="75" transform="translate(929 2203)" fill="#f0f5fc"/>
+    <path id="Rectangle_48" data-name="Rectangle 48" d="M20,0H218a0,0,0,0,1,0,0V82a0,0,0,0,1,0,0H20A20,20,0,0,1,0,62V20A20,20,0,0,1,20,0Z" transform="translate(170 1466)" fill="#275695"/>
+    <path id="Rectangle_395" data-name="Rectangle 395" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 1558)" fill="#275695"/>
+    <path id="Rectangle_56" data-name="Rectangle 56" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 1643)" fill="#275695"/>
+    <path id="Rectangle_59" data-name="Rectangle 59" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 1728)" fill="#275695"/>
+    <path id="Rectangle_68" data-name="Rectangle 68" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 2033)" fill="#275695"/>
+    <path id="Rectangle_77" data-name="Rectangle 77" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 2203)" fill="#275695"/>
+    <path id="Rectangle_65" data-name="Rectangle 65" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 1948)" fill="#275695"/>
+    <path id="Rectangle_71" data-name="Rectangle 71" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 2118)" fill="#275695"/>
+    <path id="Rectangle_74" data-name="Rectangle 74" d="M20,0H218a0,0,0,0,1,0,0V75a0,0,0,0,1,0,0H20A20,20,0,0,1,0,55V20A20,20,0,0,1,20,0Z" transform="translate(170 2288)" fill="#275695"/>
+    <path id="Rectangle_62" data-name="Rectangle 62" d="M20,0H218a0,0,0,0,1,0,0V125a0,0,0,0,1,0,0H20A20,20,0,0,1,0,105V20A20,20,0,0,1,20,0Z" transform="translate(170 1813)" fill="#275695"/>
+    <g id="Rectangle_49" data-name="Rectangle 49" transform="translate(408 1318)" fill="#275695" stroke="#707070" stroke-width="1">
+      <path d="M20,0H481a20,20,0,0,1,20,20V128a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" stroke="none"/>
+      <path d="M20,.5H481A19.5,19.5,0,0,1,500.5,20V127.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V20A19.5,19.5,0,0,1,20,.5Z" fill="none"/>
+    </g>
+    <text id="推奨利用人数" transform="translate(279 1514)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-54" y="0">推奨利用人数</tspan></text>
+    <text id="納期" transform="translate(279 1610)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-18" y="0">納期</tspan></text>
+    <text id="導入コスト" transform="translate(279 1688)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-37.301" y="0">導入コスト</tspan></text>
+    <text id="ランニング費用" transform="translate(279 1772)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-51.42" y="0">ランニング費用</tspan></text>
+    <text id="提供機能" transform="translate(279 2078)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-36" y="0">提供機能</tspan></text>
+    <text id="サポート体制" transform="translate(279 2248)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-44.925" y="0">サポート体制</tspan></text>
+    <text id="設定代行" transform="translate(279 1993)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-36" y="0">設定代行</tspan></text>
+    <text id="計算仕様" transform="translate(279 2163)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-36" y="0">計算仕様</tspan></text>
+    <text id="設定変更" transform="translate(279 2333)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-36" y="0">設定変更</tspan></text>
+    <text id="導入コンサル" transform="translate(279 1883)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-45.387" y="0">導入コンサル</tspan></text>
+    <g id="Group_5" data-name="Group 5" transform="translate(-196 -308)">
+      <text id="_5000" data-name="~5000" transform="translate(841 1826)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-35.34" y="0">~5000</tspan></text>
+      <text id="名" transform="translate(895 1825)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-9" y="0">名</tspan></text>
+    </g>
+    <g id="Group_128" data-name="Group 128" transform="translate(-21 -287)">
+      <text id="_3" data-name="3" transform="translate(671 1893)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-7.068" y="0">3</tspan></text>
+      <text id="ヶ月" transform="translate(701 1891)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-18" y="0">ヶ月</tspan></text>
+      <text id="約" transform="translate(650 1891)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-9" y="0">約</tspan></text>
+    </g>
+    <g id="Group_127" data-name="Group 127" transform="translate(0 -242)">
+      <text id="kinnosuke" transform="translate(659 1607)" fill="#fff" font-size="23" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-58.662" y="0">kinnosuke</tspan></text>
+      <text id="専任の導入担当がお客様の環境に_沿った設計_設定をご提案" data-name="専任の導入担当がお客様の環境に
+沿った設計・設定をご提案" transform="translate(659 1636)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-98.376" y="0">専任の導入担当がお客様の環境に</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-72.751" y="27">沿った設計・設定をご提案</tspan></text>
+    </g>
+    <rect id="Rectangle_379" data-name="Rectangle 379" width="501" height="82" transform="translate(929 1466)" fill="#f0f5fc"/>
+    <rect id="Rectangle_372" data-name="Rectangle 372" width="501" height="75" transform="translate(929 1558)" fill="#f0f5fc"/>
+    <rect id="Rectangle_382" data-name="Rectangle 382" width="501" height="75" transform="translate(929 1643)" fill="#f0f5fc"/>
+    <rect id="Rectangle_384" data-name="Rectangle 384" width="501" height="75" transform="translate(929 1728)" fill="#f0f5fc"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="501" height="125" transform="translate(408 1813)" fill="#f0f5fc"/>
+    <rect id="Rectangle_378" data-name="Rectangle 378" width="501" height="125" transform="translate(929 1813)" fill="#f0f5fc"/>
+    <path id="Rectangle_50" data-name="Rectangle 50" d="M20,0H481a20,20,0,0,1,20,20V164a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(929 1282)" fill="#d2e4fd"/>
+    <g id="Group_129" data-name="Group 129" transform="translate(-81 -287)">
+      <text id="_1" data-name="1" transform="translate(1252 1893)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-7.068" y="0">1</tspan></text>
+      <text id="ヶ月-2" data-name="ヶ月" transform="translate(1282 1891)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-18" y="0">ヶ月</tspan></text>
+      <text id="約-2" data-name="約" transform="translate(1231 1891)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-9" y="0">約</tspan></text>
+    </g>
+    <g id="Group_131" data-name="Group 131" transform="translate(-82 -280)">
+      <text id="_20" data-name="20" transform="translate(1223 1973)" fill="#275695" font-size="32" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-18.848" y="0">20</tspan></text>
+      <text id="万円_" data-name="万円〜" transform="translate(1283 1972)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-36" y="0">万円〜</tspan></text>
+    </g>
+    <g id="Group_130" data-name="Group 130" transform="translate(-44 -284)">
+      <text id="_100" data-name="100" transform="translate(673 1975)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-21.204" y="0">100</tspan></text>
+      <text id="万円_2" data-name="万円〜" transform="translate(726 1974)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-27" y="0">万円〜</tspan></text>
+    </g>
+    <g id="Group_133" data-name="Group 133" transform="translate(-44 -278)">
+      <text id="_350" data-name="350" transform="translate(678 2054)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-21.204" y="0">350</tspan></text>
+      <text id="円_ID" data-name="円/ID" transform="translate(726 2053)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-21.888" y="0">円/ID</tspan></text>
+    </g>
+    <g id="Group_132" data-name="Group 132" transform="translate(78 -278)">
+      <text id="_350-2" data-name="350" transform="translate(1077 2054)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-21.204" y="0">350</tspan></text>
+      <text id="円_ID-2" data-name="円/ID" transform="translate(1125 2053)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-21.888" y="0">円/ID</tspan></text>
+    </g>
+    <text id="制限なし" transform="translate(659 2079)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-36" y="0">制限なし</tspan></text>
+    <text id="メール_電話" data-name="メール&amp;電話" transform="translate(659 2249)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-51.651" y="0">メール&amp;電話</tspan></text>
+    <text id="メール_電話-2" data-name="メール&amp;電話" transform="translate(1180 2249)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-51.651" y="0">メール&amp;電話</tspan></text>
+    <text id="制限なし-2" data-name="制限なし" transform="translate(1180 2079)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-36" y="0">制限なし</tspan></text>
+    <text id="_" data-name="◯" transform="translate(659 1997)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◯</tspan></text>
+    <text id="_2" data-name="◯" transform="translate(1180 1997)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◯</tspan></text>
+    <text id="_3-2" data-name="◎" transform="translate(659 2167)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◎</tspan></text>
+    <text id="_4" data-name="◎" transform="translate(659 2337)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◎</tspan></text>
+    <text id="_5" data-name="◯" transform="translate(1180 2167)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◯</tspan></text>
+    <text id="_6" data-name="◯" transform="translate(1180 2337)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◯</tspan></text>
+    <g id="Group_6" data-name="Group 6" transform="translate(325.5 -294.732)">
+      <text id="_300" data-name="~300" transform="translate(846 1826)" fill="#363636" font-size="24" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-28.272" y="0">~300</tspan></text>
+      <text id="名-2" data-name="名" transform="translate(888 1825)" fill="#363636" font-size="18" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-9" y="0">名</tspan></text>
+    </g>
+    <g id="Group_126" data-name="Group 126" transform="translate(14 -242)">
+      <text id="kinnosuke_導入テンプレート版" data-name="kinnosuke 
+導入テンプレート版" transform="translate(1166 1571)" fill="#363636" font-size="23" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-61.272" y="0">kinnosuke </tspan><tspan x="-103.155" y="39">導入テンプレート版</tspan></text>
+      <text id="既存の出勤簿計算一覧から_お客様自身で必要な計算パターンを選択" data-name="既存の出勤簿計算一覧から、
+お客様自身で必要な計算パターンを選択" transform="translate(1166 1639)" fill="#363636" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-84.048" y="0">既存の出勤簿計算一覧から、</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-113.148" y="27">お客様自身で必要な計算パターンを選択</tspan></text>
+    </g>
+    <g id="Group_125" data-name="Group 125" transform="translate(-81 -274)">
+      <text id="中堅企業様向け" transform="translate(1261 1771)" fill="#275695" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-40.699" y="0">中堅企業様向け</tspan></text>
+      <path id="Path_1" data-name="Path 1" d="M3526.9,1777.268l8.751-13" transform="translate(-2218.899 -5)" fill="none" stroke="#275695" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_2" data-name="Path 2" d="M3535.65,1777.268l-8.751-13" transform="translate(-2321.65 -5)" fill="none" stroke="#275695" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Group_134" data-name="Group 134" transform="translate(-28 -282)">
+      <text id="_7" data-name="◎" transform="translate(687 2145)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◎</tspan></text>
+      <text id="お客様独自の計算方法や_運用相談などを丁寧にコンサル実施" data-name="お客様独自の計算方法や
+運用相談などを丁寧にコンサル実施" transform="translate(687 2172)" fill="#363636" font-size="13" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-71.5" y="0">お客様独自の計算方法や</tspan><tspan x="-104" y="23.6">運用相談などを丁寧にコンサル実施</tspan></text>
+    </g>
+    <g id="Group_135" data-name="Group 135" transform="translate(-84 -282)">
+      <text id="_8" data-name="◯" transform="translate(1264 2145)" fill="#363636" font-size="26" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-13" y="0">◯</tspan></text>
+      <text id="顧客が選択した計算パターンを_元にヒアリング_設計" data-name="顧客が選択した計算パターンを
+元にヒアリング・設計" transform="translate(1264 2172)" fill="#363636" font-size="13" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-90.675" y="0">顧客が選択した計算パターンを</tspan><tspan x="-65" y="23.6">元にヒアリング・設計</tspan></text>
+    </g>
+    <g id="Rectangle_396" data-name="Rectangle 396" transform="translate(924 1552)" fill="none" stroke="#ed3833" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="8">
+      <rect width="511" height="171" stroke="none"/>
+      <rect x="1.5" y="1.5" width="508" height="168" fill="none"/>
+    </g>
+  </g>
+</svg>

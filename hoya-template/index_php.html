@@ -1,0 +1,449 @@
+<?php
+/*
+Template Name: LP Template Page
+*/
+?>
+
+<!DOCTYPE html>
+<html lang="ja">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kinnosuke</title>
+    <meta name="description" content="○○○○○○○○">
+    <meta name="keywords" content="○○○○○○○○○">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Kinnosuke">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="○○○○○○○">
+    <meta property="og:image" content="img/favicon.ico">
+    <meta property="og:description" content="○○○○○○○○">
+    <meta property="og:site-name" content="Kinnosuke">
+    <link rel="icon" href="img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180×180" href="icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous"> -->
+<!-- 
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet"> -->
+
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/css/aos.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/css/common.css">
+  </head>
+
+  <body>
+    <div id="wrap">
+      <header class="header">
+          <div class="header-menu">
+            <div class="header-icon">
+              <a href="index.html"><img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/common_logo-kinnosuke.svg" alt="" class="icon"></a>
+            </div>
+            <div class="header-btn pc">
+              <div class="nav-wrapper">
+                <nav class="header-nav">
+                  <ul class="nav-list">
+                    <li class="nav-item"><a href="#section01">プラン比較</a></li>
+                    <li class="nav-item"><a href="#section02">なぜ安く提供できるのか</a></li>
+                    <li class="nav-item"><a href="#section03">できること</a></li>
+                    <li class="nav-item"><a href="#section04">導入の流れ</a></li>
+                    <li class="nav-item"><a href="#section06">よくある質問</a></li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="red-btn"><a href="https://www.kinnosuke.jp/contact/">今すぐ資料ダウンロード</a></div>
+            </div>
+            <div class="menu-btn" onclick="menuClick(this)">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+          <div class="menu" onclick="menuClose()">
+            <div>
+              <a href="#section01">プラン比較</a>
+            </div>
+            <div>
+              <a href="#section02">なぜ安く提供できるのか</a>
+            </div>
+            <div>
+              <a href="#section03">できること</a>
+            </div>
+            <div>
+              <a href="#section04">導入の流れ</a>
+            </div>
+            <div>
+              <a href="#section06">よくある質問</a>
+            </div>
+
+            <div class="red-btn"><a href="https://www.kinnosuke.jp/contact/">今すぐ資料ダウンロード</a></div>
+        </div>
+      </header>
+
+      <main>
+        <section id="top" class="section-top">
+          <div class="wrapper">
+            <div class="top-container">
+              <div class="top-left">
+                <div>
+                  <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/top-txt1.svg" alt="">
+                </div>
+                <div>
+                  <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/top-txt2.svg" alt="">
+                </div>
+                <div>
+                  <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/top-txt3.svg" alt="">
+                </div>
+                <div class="red-btn">
+                  <a href="#">お問い合わせ/資料ダウンロード</a>
+                </div>                  
+              </div>
+              <div class="banner-video">
+                <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/top-display.png" alt="">
+                <video src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/video/top_movie.mp4" muted="" autoplay="" loop=""></video>
+              </div>
+            </div>  
+          </div>
+        </section>
+        
+        <section id="section01" class="section section01">
+          <div class="wrapper">
+            <div class="container">
+              <h1 class="t_center">
+                導入コストを大幅に削減できる<br>
+                kinnosuke導入テンプレートを提供開始いたしました！
+              </h1>
+              <p class="fs_18 t_center mb_40">
+                <span class="f_underline">従来のkinnnosuke同様に導入担当を付け、設定代行までをセットメニューとして、</span><br>
+                <span class="fs_23 fw_b c_blue">100~300</span><span class="fs_21 c_blue">名規模の中堅企業</span>さまでも導入しやすい低<span class="fs_21 c_blue fw_b f_underline">額導入プラン</span>を提供開始いたします。
+              </p>
+              <div class="section-container">
+                <div class="hoya-template pc">
+                  <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img01.svg" alt="">
+                </div>
+                <div class="hoya-template sp">
+                  <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img01_sp.svg" alt="">
+                </div>
+                <div class="red-btn">
+                  <a href="#">お問い合わせ/資料ダウンロード</a>
+                </div>
+              </div>  
+            </div>
+          </div>
+        </section>
+
+        <section id="section02" class="section02">
+          <div class="wrapper">
+            <div class="container">
+              <h1 class="t_center">
+                なぜ安く提供できるのか？
+              </h1>
+              <p class="fs_18 t_center mb_40">
+                <span class="fs_21 c_blue fw_b f_underline">導入担当の対応範囲を明確に分ける</span>ことで、工数を削減！<br>
+                勤怠システム内で計算できる仕様を絞ることで<span class="fs_21 c_blue fw_b f_underline">kinnosukeよりもお安く導入が可能</span>となりました！
+              </p>
+              <p class="fs_26 fw_b t_center c_blue mb_40">
+                システム導入担当の対応範囲比較
+              </p>
+              <div class="section-container">
+                <div class="section-content-half section-card">
+                  <div class="card-title">
+                    kinnosuke
+                  </div>
+                  <div class="card-container">
+                    <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img02.png" alt="">
+                    <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img03.svg" alt="">
+                    <p class="fs_26 fw_b t_center c_blue mb_20">
+                      システム導入担当の対応範囲比較
+                    </p>
+                    <p class="fs_16 t_left">
+                      お客様の現状運用分析と、給与システム仕様から最適な勤怠システムでの出勤簿計算/給与連携を定義・設定構築する導入フルサポートプランです。
+                    </p>
+                  </div>
+                </div>
+                <div class="section-content-half section-card">
+                  <div class="card-title">
+                    kinnosuke導入テンプレート版
+                  </div>
+                  <div class="card-container">
+                    <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img04.png" alt="">
+                    <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img05.svg" alt="">
+                    <p class="fs_26 fw_b t_center c_blue mb_20">
+                      機能一覧の中からお客様自身で仕様を選択
+                    </p>
+                    <p class="fs_16 t_left">
+                      Kinnosuke導入テンプレートに合わせて勤怠システム内で計算できる仕様を絞ることで、導入費用と導入期間を短縮を可能に。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        
+        <section id="section03" class="section03">
+          <div class="wrapper">
+            <div class="container">
+              <h1 class="t_center">
+                Kinnosuke導入テンプレートでできること
+              </h1>
+              <div class="section-container">
+                <div class="section-content-left">
+                    <p class="fs_26 fw_b c_blue t_left mb_20">
+                      既存の出勤簿計算一覧から、必要な計算パターンを選択。<br>
+                      それを元に設定を行います。
+                    </p>
+                    <p class="fs_18">
+                      kinnosuke導入プランでは事前に出勤簿計算項目リストを提示いたします。<br>
+                      お客様自身で自社運用に問題がないか確認いただいた上でご契約をいたします。
+                    </p>
+                </div>
+                <div class="section-content-right">
+                    <div class="section-card mb_20">
+                      <div class="fs_26 card-title">
+                        申請一覧例
+                      </div>
+                      <div class="card-container">
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            残業
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            在宅勤務
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            深夜残業
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            振替出勤・振替休日
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            直行直帰
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            有休(一日・半日・時間)
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            時差出勤
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            子の看護休暇・介護休暇　etc
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="section-card">
+                      <div class="fs_26 card-title">
+                        出勤簿割増/控除計算パターン選択
+                      </div>
+                      <div class="card-container">
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            固定の労働パターン
+                          </p>
+                        </div>
+                        <div class="checkbox-item">
+                          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/checkbox.svg" alt="">
+                          <p class="fs_18 fw_b t_left c_blue">
+                            フレックスの労働パターン
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
+              <div class="red-btn">
+                <a href="#">お問い合わせ/資料ダウンロード</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="section04" class="section section04">
+          <div class="wrapper">
+            <div class="container">
+              <h1 class="t_center">
+                導入までの流れ
+              </h1>
+              <p class="fs_18 t_center mb_40">
+                ご契約から約で<span class="fs_21 fw_b c_blue">1ヶ月</span>で納品可能です！
+              </p>
+              <div class="section-container pc">
+                  <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img06.png" alt="">
+              </div>
+              <div class="section-container sp">
+                <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/img06_sp.svg" alt="">
+            </div>
+          </div>
+          </div>
+        </section>
+
+        <section id="section05" class="section section05">
+          <div class="wrapper">
+            <p class="fs_24 c_white t_center mb_20">
+              こんな経験のある担当者様
+            </p>
+            <div class="border-box">
+              <p class="mb_20">
+                勤怠管理システムの自社導入でうまくいかなかった
+              </p>
+              <p>
+                今の勤怠管理システムで要件を満たせていないと感じている
+              </p>
+            </div>
+            <p class="fs_21 c_white t_center mb_20">
+              まずは、お気軽にご相談ください。
+            </p>
+            <div class="red-btn">
+              <a href="#">お問い合わせ/資料ダウンロード</a>
+            </div>
+          </div>
+        </section>
+
+        <section id="section06" class="section06">
+          <div class="wrapper">
+            <h1 class="t_center">よくある質問</h1>
+            <div class="faq-card mt_80">
+              <div class="faq-q">
+                <p>
+                  どのような流れで導入設定が進みますでしょうか。
+                </p>
+              </div>
+              <div class="faq-a">
+                <p>
+                  まずは事前調査シートにてお客様のご要望を伺い、システムの設定パターンを決定いたします。記載いただいた事前調査シートをもとに導入ヒアリング担当がお客様にヒアリング(最大2回)を実施し、設定仕様書を作成します。作成された設定仕様書をもとにシステム設定担当が設定作業を実施し、kinnosukeお客様専用環境を納品いたします。ここまでで1か月～1か月半となります。納品後、導入ヒアリング担当がお客様管理者様向けにシステム管理者講習を実施し、お客様テスト稼働後、本稼働に移っていただきます。
+                </p>
+              </div>
+            </div>
+            <div class="faq-card">
+              <div class="faq-q">
+                <p>
+                  導入までの期間はどの程度かかりますか？
+                </p>
+              </div>
+              <div class="faq-a">
+                <p>
+                  事前に回答いただいたkinnosuke導入テンプレートに沿って、導入ヒアリング、システム設定を実施いたします。ヒアリング、設定で1か月～1か月半、お客様稼働まで2か月～3か月程度が標準の導入期間となります。
+                </p>
+              </div>
+            </div>
+            <div class="faq-card">
+              <div class="faq-q">
+                <p>
+                  今までの勤怠管理システムの導入と何が違うのでしょうか？
+                </p>
+              </div>
+              <div class="faq-a">
+                <p>
+                  クラウド型の勤怠管理システムはお客様にて導入するタイプと、提供ベンダが設定するタイプの大きく2パターンに分かれます。前者のタイプだと、なかなかお客様の運用にあった詳細な設定ができないというお声が多くあり、後者のパターンだと導入費用と導入期間が高額、長期間で検討の範囲に入らないというお声が多くあります。kinnosuke導入テンプレート版は両方のお声に応えるべく、低価格、短納期でありながら初期導入設定をHOYAが代行するまさに痒いところに手が届くサービスとなっております。
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- footer -->
+      <footer>
+        <a href="<?php echo get_template_directory_uri();?>/lp-template-plan/index.html" class="footer-logo">
+          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/common_logo-kinnosuke.svg" alt="main logo">
+        </a>
+        <div class="footer-link-container">
+            <div class="footer-link-box">
+                <p>HOYA株式会社<br>
+                    〒163-1035<br>
+                    東京都新宿区西新宿3-7-1<br>
+                    新宿パークタワー 35F</p>
+                <a href="https://www.hoya.co.jp/company/profile.html" target="_blank"><h5>会社概要</h5></a>
+                <a href="https://www.hoya.co.jp/policy.html" target="_blank"><h5>&ZeroWidthSpace;プライバシーポリシー</h5></a>
+            </div>
+            <div class="footer-link-box">
+                <h5>kinnosukeとは</h5>
+                <ul>
+                    <li><a href="https://www.kinnosuke.jp/value/">&nbsp;- kinnosukeで実現できる価値</a></li>
+                    <li><a href="https://www.kinnosuke.jp/reason/">&nbsp;- kinnosukeが選ばれる4つの理由</a></li>
+                    <li><a href="https://www.kinnosuke.jp/work-system-reform/">&nbsp;- 働き方改革</a></li>
+                </ul>
+            </div>
+            <div class="footer-link-box">
+                <h5>機能</h5>
+                <ul>
+                    <li><a href="https://www.kinnosuke.jp/functions/timeclock/">&nbsp;- 選べる打刻機能</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/recommend/">&nbsp;- 打刻・申請忘れ対策</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/restriction/">&nbsp;- 労働時間超過対策 各種アラート</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/autocul/">&nbsp;- リアルタイム管理</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/application-approval/">&nbsp;- 手軽な申請・承認機能</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/statistics-graph/">&nbsp;- 統計・グラフ分析</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/shift-management/">&nbsp;- 簡単シフト作成・管理</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/man-hour-management/">&nbsp;- 工数・タスク管理</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/leave-management/">&nbsp;- 自動化できる休暇管理</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/payroll-system/">&nbsp;- 給与ソフト連携</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/security/">&nbsp;- 安心のセキュリティ</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/multi-language-timezone/">&nbsp;- マルチランゲージ・タイムゾーン</a></li>
+                    <li><a href="https://www.kinnosuke.jp/functions/api-integration-sso/">&nbsp;- API連携/SSO</a></li>
+                </ul>
+            </div>
+            <div class="footer-link-box">
+                <a href="https://www.kinnosuke.jp/voice/"><h5>導入事例</h5></a>
+                <a href="https://www.kinnosuke.jp/execution-sequence/"><h5>導入までの流れ</h5></a>
+                <a href="https://www.kinnosuke.jp/support/"><h5>サポート</h5></a>
+                <a href="https://www.kinnosuke.jp/cost/"><h5>料金</h5></a>
+                <a href="https://www.kinnosuke.jp/blog/"><h5>ブログ</h5></a>
+                <a href="https://www.kinnosuke.jp/news/"><h5>お知らせ</h5></a>
+            </div>
+        </div>
+        <div class="copyright">
+          <img src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/img/hoya_ogp.webp" alt="main logo">
+          <div class="footer-company-bottom">
+            <p>HOYA株式会社<br>
+                〒163-1035<br>
+                東京都新宿区西新宿3-7-1<br>
+                新宿パークタワー 35F</p>
+            <div><a href="https://www.hoya.co.jp/company/profile.html"><h5>会社概要</h5></a></div>
+            <div><a href="https://www.hoya.co.jp/policy.html"><h5>&ZeroWidthSpace;プライバシーポリシー</h5></a></div>
+          </div>
+          <h6>HOYA株式会社 MD部門 C-PUS SBU</h6>
+        </div>
+      </footer>
+    </div>
+    <!-- JavaScript読み込み -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+    <script src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/scripts/aos.js"></script>  
+    
+    <script src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/scripts/file.js"></script>
+    <script src="<?php echo get_template_directory_uri();?>/lp-template-plan/assets/scripts/main.js"></script>
+
+    <script>
+      AOS.init();
+    </script>
+  </body>
+</html>

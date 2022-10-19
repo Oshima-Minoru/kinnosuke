@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550.333" height="230" viewBox="0 0 550.333 230">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="80" height="80" fill="#275695"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="80" height="79.999" fill="#275695"/>
+    </clipPath>
+  </defs>
+  <g id="Group_145" data-name="Group 145" transform="translate(-200 -3179)">
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="261" height="20" transform="translate(353 3280)" fill="#275695"/>
+    <g id="Group_144" data-name="Group 144">
+      <g id="Rectangle_86" data-name="Rectangle 86" transform="translate(200 3179)" fill="#fff" stroke="#275695" stroke-width="5">
+        <rect width="163.333" height="230" rx="20" stroke="none"/>
+        <rect x="2.5" y="2.5" width="158.333" height="225" rx="17.5" fill="none"/>
+      </g>
+      <g id="Rectangle_399" data-name="Rectangle 399" transform="translate(393.333 3179)" fill="#fff" stroke="#275695" stroke-width="5">
+        <rect width="163.333" height="230" rx="20" stroke="none"/>
+        <rect x="2.5" y="2.5" width="158.333" height="225" rx="17.5" fill="none"/>
+      </g>
+      <g id="Rectangle_400" data-name="Rectangle 400" transform="translate(587 3179)" fill="#fff" stroke="#275695" stroke-width="5">
+        <rect width="163.333" height="230" rx="20" stroke="none"/>
+        <rect x="2.5" y="2.5" width="158.333" height="225" rx="17.5" fill="none"/>
+      </g>
+      <text id="お客様が_現在使用している_勤怠管理仕様" data-name="お客様が
+現在使用している
+勤怠管理仕様" transform="translate(283 3325)" fill="#275695" font-size="14" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-28" y="0">お客様が</tspan><tspan x="-55.79" y="25">現在使用している</tspan><tspan x="-42" y="50">勤怠管理仕様</tspan></text>
+      <text id="お客様が_現在使用している_給与システム仕様" data-name="お客様が
+現在使用している
+給与システム仕様" transform="translate(668 3325)" fill="#275695" font-size="14" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-28" y="0">お客様が</tspan><tspan x="-55.79" y="25">現在使用している</tspan><tspan x="-55.79" y="50">給与システム仕様</tspan></text>
+      <text id="kinnosuke" transform="translate(475 3298)" fill="#275695" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-44.673" y="0">kinnosuke</tspan></text>
+      <g id="Group_25" data-name="Group 25" transform="translate(243 3209)">
+        <g id="Group_24" data-name="Group 24" clip-path="url(#clip-path)">
+          <path id="Path_3" data-name="Path 3" d="M57.651,95.987l0,5.358c0,.582.286.969.688.969s.689-.386.689-.967l0-5.358c0-.582-.286-.968-.688-.969s-.689.387-.689.968" transform="translate(-18.338 -30.225)" fill="#275695"/>
+          <path id="Path_4" data-name="Path 4" d="M78.289,90.47c-.29-.5-.732-.7-1.08-.5s-.4.679-.113,1.182L79.772,95.8c.29.5.732.7,1.08.5s.4-.679.113-1.182Z" transform="translate(-24.465 -28.596)" fill="#275695"/>
+          <path id="Path_5" data-name="Path 5" d="M92.172,76.079c-.5-.291-.982-.237-1.183.111s-.01.79.493,1.08l4.639,2.682c.5.291.982.237,1.182-.111s.01-.79-.492-1.081Z" transform="translate(-28.919 -24.141)" fill="#275695"/>
+          <path id="Path_6" data-name="Path 6" d="M103.325,57.328c0-.4-.386-.689-.967-.689l-5.358,0c-.582,0-.968.286-.969.687s.387.689.968.689l5.358,0c.581,0,.968-.286.968-.688" transform="translate(-30.548 -18.016)" fill="#275695"/>
+          <path id="Path_7" data-name="Path 7" d="M96.123,33.363l-4.642,2.676c-.5.29-.7.732-.5,1.08s.679.4,1.182.113l4.642-2.676c.5-.29.7-.732.5-1.079s-.679-.4-1.182-.114" transform="translate(-28.918 -10.553)" fill="#275695"/>
+          <path id="Path_8" data-name="Path 8" d="M80.854,15.984c-.347-.2-.79-.01-1.081.493l-2.681,4.638c-.291.5-.237.983.111,1.183s.79.01,1.08-.493l2.682-4.638c.291-.5.237-.983-.111-1.183" transform="translate(-24.464 -5.059)" fill="#275695"/>
+          <path id="Path_9" data-name="Path 9" d="M59.025,15.906l0-5.358c0-.581-.286-.968-.688-.968s-.689.386-.689.967l0,5.358c0,.582.286.969.688.97s.689-.387.689-.968" transform="translate(-18.338 -3.047)" fill="#275695"/>
+          <path id="Path_10" data-name="Path 10" d="M37.051,21.8c.29.5.732.7,1.08.5s.4-.68.113-1.182l-2.676-4.642c-.29-.5-.732-.7-1.08-.5s-.4.679-.113,1.182Z" transform="translate(-10.875 -5.059)" fill="#275695"/>
+          <path id="Path_11" data-name="Path 11" d="M22.128,37.233c.5.291.982.237,1.183-.111s.01-.79-.493-1.08L18.18,33.36c-.5-.291-.982-.237-1.182.111s-.01.79.492,1.08Z" transform="translate(-5.382 -10.552)" fill="#275695"/>
+          <path id="Path_12" data-name="Path 12" d="M10.592,57.323c0,.4.386.689.967.689l5.358,0c.581,0,.968-.286.969-.687s-.387-.689-.968-.689l-5.358,0c-.582,0-.969.286-.969.688" transform="translate(-3.369 -18.016)" fill="#275695"/>
+          <path id="Path_13" data-name="Path 13" d="M18.176,79.952l4.642-2.676c.5-.29.7-.732.5-1.08s-.679-.4-1.182-.113l-4.642,2.676c-.5.291-.7.732-.5,1.08s.679.4,1.182.114" transform="translate(-5.381 -24.142)" fill="#275695"/>
+          <path id="Path_14" data-name="Path 14" d="M38.134,89.977c-.348-.2-.79-.01-1.08.493l-2.683,4.639c-.291.5-.236.982.112,1.182s.79.01,1.08-.492l2.682-4.639c.291-.5.237-.982-.111-1.183" transform="translate(-10.874 -28.597)" fill="#275695"/>
+          <path id="Path_15" data-name="Path 15" d="M43.195,43.98a1.449,1.449,0,0,0,.179,2.042L52.7,53.85a1.448,1.448,0,0,0,1.817.036L69.084,42.644a1.449,1.449,0,1,0-1.772-2.295L53.671,50.878,45.237,43.8a1.448,1.448,0,0,0-2.042.179" transform="translate(-13.632 -12.739)" fill="#275695"/>
+          <path id="Path_16" data-name="Path 16" d="M40,0A40.007,40.007,0,0,0,23.547,76.471a1.45,1.45,0,0,0,1.194-2.642,36.93,36.93,0,1,1,4.946,1.821,1.45,1.45,0,0,0-.8,2.786A40,40,0,1,0,40,0" fill="#275695"/>
+        </g>
+      </g>
+      <g id="Group_27" data-name="Group 27" transform="translate(628 3209)">
+        <g id="Group_26" data-name="Group 26" clip-path="url(#clip-path-2)">
+          <path id="Path_17" data-name="Path 17" d="M55.76,67.8V61.31a.6.6,0,0,1,.6-.6h6.706a.6.6,0,0,0,.6-.6V59.009a.6.6,0,0,0-.6-.6H56.357a.6.6,0,0,1-.6-.6V55.84a.6.6,0,0,1,.6-.6h6.706a.6.6,0,0,0,.6-.6V53.584a.6.6,0,0,0-.6-.6H57.736a.6.6,0,0,1-.531-.87l7.093-13.8a.6.6,0,0,0-.531-.87H61.135a.6.6,0,0,0-.543.348l-3.66,7.986c-1,2.127-1.91,4.254-2.952,6.554h-.217c-1.042-2.3-1.954-4.428-2.908-6.554L47.237,37.8a.6.6,0,0,0-.543-.35H43.884a.6.6,0,0,0-.533.867L50.37,52.119a.6.6,0,0,1-.532.867H44.593a.6.6,0,0,0-.6.6v1.062a.6.6,0,0,0,.6.6h6.62a.6.6,0,0,1,.6.6v1.975a.6.6,0,0,1-.6.6h-6.62a.6.6,0,0,0-.6.6v1.107a.6.6,0,0,0,.6.6h6.62a.6.6,0,0,1,.6.6V67.8a.6.6,0,0,0,.6.6h2.756a.6.6,0,0,0,.6-.6" transform="translate(-13.769 -11.912)" fill="#275695"/>
+          <path id="Path_18" data-name="Path 18" d="M74.131,45.575A29.94,29.94,0,1,0,44.19,75.515a29.974,29.974,0,0,0,29.941-29.94m-56.981,0A27.041,27.041,0,1,1,44.19,72.616,27.071,27.071,0,0,1,17.15,45.575" transform="translate(-4.533 -4.974)" fill="#275695"/>
+          <path id="Path_19" data-name="Path 19" d="M40,0A40.007,40.007,0,0,0,23.547,76.471a1.45,1.45,0,0,0,1.194-2.642,36.93,36.93,0,1,1,4.946,1.821,1.45,1.45,0,1,0-.8,2.786A40,40,0,1,0,40,0" fill="#275695"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
